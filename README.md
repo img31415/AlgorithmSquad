@@ -1,2 +1,3 @@
 # AlgorithmSquad
-Algorithm Squad
+
+We are the algorithm squad 👩‍💻⏲🍕
