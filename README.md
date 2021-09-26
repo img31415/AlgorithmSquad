@@ -2,4 +2,4 @@
 
 We are the algorithm squad 👩‍💻 ⏲ 🍕 📚 ☕️
 
-##Eat Pray Code !! 
+## Eat Pray Code !! 
