@@ -8,3 +8,4 @@ Eat Pray Code !!
 - Commit your solution with your name on top. 
 - Commit your solution before the end of deadline. 
 - Discuss solution with your squad.
+- When it is your turn to give the question, please keep the file name without space,?,",'
